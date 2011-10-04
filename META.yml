@@ -21,10 +21,10 @@ no_index:
 requires:
   Carp: 0
   Dancer: 1.3072
-  Text::Caml: 0.009004
+  Text::Caml: 0.009005
   perl: 5.8.7
 resources:
   bugtracker: http://github.com/vti/dancer-template-caml/issues
   license: http://dev.perl.org/licenses/
   repository: http://github.com/vti/dancer-template-caml/
-version: 0.009001
+version: 0.009002
